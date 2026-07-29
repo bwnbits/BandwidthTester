@@ -1,0 +1,6 @@
+<resources>
+
+    <style name="Theme.BandwidthTester" parent="android:style/Theme.Material.Light.NoActionBar">
+    </style>
+
+</resources>
